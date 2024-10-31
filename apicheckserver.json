@@ -10,5 +10,9 @@
     {
         "ServerName": "Angel City",
         "IpServer": "191.96.92.72"
+    },
+    {
+        "ServerName": "Harem City",
+        "IpServer": "210.246.215.49"
     }
 ]
