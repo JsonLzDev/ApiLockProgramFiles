@@ -14,5 +14,9 @@
     {
         "ServerName": "Harem City",
         "IpServer": "210.246.215.49"
+    },
+    {
+        "ServerName": "Copy Town",
+        "IpServer": "31.56.79.168"
     }
 ]
