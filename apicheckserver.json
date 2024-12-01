@@ -18,5 +18,9 @@
     {
         "ServerName": "Copy Town",
         "IpServer": "31.56.79.168"
+    },
+    {
+        "ServerName": "Over Town",
+        "IpServer": "10.173.1.105"
     }
 ]
