@@ -22,5 +22,9 @@
     {
         "ServerName": "SANTAI ROLEPLAY",
         "IpServer": "172.20.10.4"
+    },
+    {
+        "ServerName": "CATTOWN 4KINGS",
+        "IpServer": "141.11.158.207"
     }
 ]
